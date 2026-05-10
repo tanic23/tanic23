@@ -71,7 +71,7 @@ AI Engineer with **3+ years** of combined engineering experience shipping produc
 | Project | Description | Stack |
 |---|---|---|
 | 🧠 [LeadMind](https://github.com/tanic23/leadmind) | AI-powered lead engagement platform — intent detection, smart auto-replies, CRM sync & Calendly scheduling | Claude · FastAPI · React · Twilio · HubSpot |
-| 🤖 ROSBot | Autonomous pickup & delivery — 100% marker detection, 95% delivery success | ROS 2 · Computer Vision · ArUco |
+| 🤖 [ROSBot](https://github.com/tanic23/ROSBot-Package-Pickup-and-Delivery-) | Autonomous pickup & delivery — 100% marker detection, 95% delivery success | ROS 2 · Computer Vision · ArUco |
 
 ---
 
